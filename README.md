@@ -1,4 +1,4 @@
-# 🌟 Prayag Nikul Purani - Data Scientist | ML Enthusiast | Tech Blogger 🌟
+# 🌟 Prayag Nikul Purani - Data Scientist | ML Enthusiast 🌟
 
 [![GitHub](https://img.shields.io/badge/GitHub-pp11--web-blue?logo=github)](https://github.com/pp11-web)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prayag%20Nikul%20Purani-blue?logo=linkedin)](https://linkedin.com/in/prayagpurani)
@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Sc
 - **Objective**: Designed an **AI-powered defect detection system** for semiconductor chips, ensuring high efficiency in GPU training for LLMs.
 - **Tech Stack**: **YOLOv5, TensorFlow, OpenCV**.
 - **Impact**: Improved **defect detection accuracy**, optimizing chip manufacturing for high-performance computing.
-<img src="./Images/6.webp" width="600" height="250">
+<img src="./Images/6.jpg" width="600" height="250">
 
 ### **Explore more of my projects on [GitHub](https://github.com/pp11-web)!**
 
@@ -91,11 +91,11 @@ Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Sc
 
 ## ✍️ **Check out my latest articles on [Medium](https://medium.com/me/stories/public)**:
 
-- [**Boosting A/B Testing Accuracy with LLMs**](https://medium.com)  
-- [**Building Real-Time Data Streaming Pipelines**](https://medium.com)  
-- [**Carbon Emission Trading with Machine Learning**](https://medium.com)  
-- [**Detecting and Correcting ML Model Drift**](https://medium.com)  
-- [**AI in Chip Manufacturing: Defect Detection Using YOLOv5**](https://medium.com)
+- [**Workflow for MongoDB**](https://medium.com/p/985cc742a113)  
+- [**First Experience with Snowflakes**](https://medium.com/p/397d065579d3)  
+- [**Experiences with PandasAi and Code Llama**](https://medium.com/p/8322c8b0a374)  
+- [**A Big Data Mining Approach of PSO-Based BP Neural Network for Financial Risk Management With IoT**](https://medium.com/p/f055c54770d8)  
+- [**Spatial big data architecture: From Data Warehouses and Data Lakes to the Lake House**](https://medium.com/p/6925ba600908)
 
 ---
 
