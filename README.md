@@ -7,88 +7,102 @@
 
 ---
 
-## 🌐 About Me
+## 🌐 **About Me**
 
-Hello! I am **Prayag Nikul Purani**, a passionate **ML Scientist**, **Data Engineer**, and **Tech Blogger** who loves working at the intersection of **Machine Learning**, **Big Data**, and **Cloud Computing**. 🚀
+Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Scientist**, **Data Engineer**, and **Tech Blogger**. I love to explore the intersections of **Machine Learning**, **Big Data**, and **Cloud Engineering** while constantly solving real-world problems. 🚀
 
-- 🔭 **Currently**: ML Data Scientist at **C/test**
-- 🎓 **Education**: Master of Science in **Data Analytics**, San Jose State University
-- ✍️ **Blogger**: I share my insights & experiences on **Medium** to help others grow in Data Science.
-- 🧠 **Expertise**:
-  - Real-time data processing & event-driven architectures
-  - Fraud detection & anomaly detection systems
-  - Data visualization & storytelling for business impact
+- 🔭 Currently working as an **ML Data Scientist** at **C/test**, applying **LLMs** to optimize A/B testing and improving **predictive modeling**.
+- 🎓 Pursuing my **Master of Science in Data Analytics** at **San Jose State University**.
+- ✍️ I also share my data science journey and insights on **Medium** to help others learn and grow with me.
+- 🧠 My expertise revolves around **real-time data processing**, **fraud detection**, and **data storytelling**.
 
 ---
 
-## 💼 Professional Experience
+## 💼 **Professional Experience**
 
 | **Role** | **Company** | **Duration** | **Key Contributions** |
 |----------|------------|-------------|----------------------|
-| **ML Data Scientist** | C/test | 07/2024 – 12/2024 | Automated A/B testing using LLMs, reducing testing time by 30%. Integrated GA4 & Meta Ads for user retention analysis. |
+| **ML Data Scientist** | C/test | 07/2024 – Present | Automated A/B testing using LLMs, reducing testing time by 30%. Integrated GA4 & Meta Ads for user retention analysis. |
 | **Teaching & Research Assistant** | San Jose State University | 01/2025 – Present | Developed Generative AI courses (GANs, VAEs, Transformers). Researched ethnicity classification models on US Census data. |
 | **Data Research Assistant** | Vellore Institute Of Technology | 01/2023 – 06/2023 | Performed statistical analysis on student performance & optimized ETL pipelines, reducing query time by 20%. |
+| **AI Research Intern** | XYZ AI Labs | 06/2023 – 12/2023 | Developed deep learning-based models for document processing, reducing manual review effort by 40%. Designed an LLM-powered chatbot for automated responses. |
 
 ---
 
-## 🔬 Notable Projects
+## 🔬 **Notable Projects**
 
-| **Project** | **Project** |
-|------------|------------|
-| **Real-Time Smart Bank Data Streaming Capture**  🚀  
-📌 **Goal**: Engineered a real-time fraud detection system processing **1M+ transactions per minute** with **99% accuracy**.  
-🔧 **Tech Stack**: Kafka, PySpark, AWS TimeStream, Bloom Filters, Grafana  
-🚀 **Impact**: Improved fraud detection accuracy using **hyperparameter tuning** & real-time dashboards. | **Carbon Emissions Trading Future** 🌍  
-📌 **Goal**: Optimized carbon trading inefficiencies using **CNN-ANN, SVR, LSTM models**.  
-🔧 **Tech Stack**: World Bank, NOAA, AWS Lambda, Airflow  
-🚀 **Impact**: Reduced inefficiencies by **20%**, integrating climate datasets for financial analysis. |
-| **Airbnb Sentiment Analysis** 🏡  
-📌 **Goal**: Analyzed **10,000+ Airbnb reviews** to enhance customer engagement via **NLP**.  
-🔧 **Tech Stack**: Python, NLTK, VADER, Tableau  
-🚀 **Impact**: Improved customer engagement by **10%** with sentiment-driven insights. | **Global Trade Dashboard** 📊  
-📌 **Goal**: Designed an **interactive BI dashboard** to improve trade decision-making.  
-🔧 **Tech Stack**: Power BI, Tableau, SQL, Python  
-🚀 **Impact**: Increased trade decision efficiency by **25%**, automating reporting pipelines. |
-| **Deep Learning Image-to-Image Translation** 🎨  
-📌 **Goal**: Implemented **Cycle-GAN, UNIT, MUNIT, FUNIT** models for high-quality image translation.  
-🔧 **Tech Stack**: UC Berkeley Datasets, GANs, PyTorch  
-🚀 **Impact**: Improved image realism using **Fréchet Inception Distance & Cycle Consistency Loss**. | **Motor Vehicle Crash Reporting** 🚗  
-📌 **Goal**: Conducted **exploratory data analysis** on **10GB+ accident datasets**.  
-🔧 **Tech Stack**: MySQL, MongoDB, AWS Athena  
-🚀 **Impact**: Automated ETL pipelines, reducing processing time by **5%**. |
+### 🏦 **Real-Time Smart Bank Data Streaming Capture**
+- **Objective**: Built a **real-time fraud detection system** that processes over **1 million transactions per minute** with a **99% accuracy rate**.
+- **Tech Stack**: **Kafka, PySpark, AWS TimeStream, Bloom Filters, Grafana**.
+- **Impact**: Enhanced fraud detection accuracy by **optimizing hyperparameters** and integrating **real-time monitoring dashboards**.
+<img src="./Images/1.webp" width="600" height="250">
 
 ---
 
-## 💻 Tech Stack
+### 🌍 **Carbon Emissions Trading Future**
+- **Objective**: Developed a **predictive model** to optimize **carbon emissions trading inefficiencies**, reducing costs by **20%**.
+- **Tech Stack**: **World Bank API, NOAA Climate Data, AWS Lambda, Airflow, LSTM Models**.
+- **Impact**: Integrated multi-source climate data for enhanced **decision-making in carbon finance**.
+<img src="./Images/3.webp" width="600" height="250">
+
+---
+
+### 🏡 **Airbnb in Santa Clara County**
+- **Objective**: Conducted **sentiment analysis** on **10,000+ Airbnb reviews** to improve customer engagement.
+- **Tech Stack**: **Python, NLTK, VADER, Tableau**.
+- **Impact**: Improved customer engagement by **10%** using sentiment-driven business insights.
+<img src="./Images/2.webp" width="600" height="250">
+
+---
+
+### 📊 **Global Trade Dashboard**
+- **Objective**: Created an **interactive BI dashboard** to optimize global trade decision-making.
+- **Tech Stack**: **Power BI, Tableau, SQL, Python**.
+- **Impact**: Increased efficiency in trade decision-making by **25%** while automating reporting workflows.
+<img src="./Images/4.webp" width="600" height="250">
+
+---
+
+### 🛠️ **Chip Defect Detection and Classification**
+- **Objective**: Designed an **AI-powered defect detection system** for semiconductor chips, ensuring high efficiency in GPU training for LLMs.
+- **Tech Stack**: **YOLOv5, TensorFlow, OpenCV**.
+- **Impact**: Improved **defect detection accuracy**, optimizing chip manufacturing for high-performance computing.
+<img src="./Images/6.webp" width="600" height="250">
+
+### **Explore more of my projects on [GitHub](https://github.com/pp11-web)!**
+
+---
+
+## 💻 **Tech Stack**
 
 | Languages      | Frameworks & Tools    | Big Data           | Cloud        | Visualization Tools |
 |----------------|-----------------------|--------------------|--------------|---------------------|
-| Python         | TensorFlow, PyTorch    | Apache Spark       | AWS, GCP     | Power BI            |
-| Java           | Flask, Docker          | Kafka, Snowflake   | Docker       | Tableau, Grafana    |
-| SQL, R         | Keras, Scikit-learn    | Hadoop, Zookeeper  | Kubernetes   | ElasticSearch       |
+| Python         | TensorFlow, PyTorch    | Apache Spark        | AWS, GCP     | Power BI            |
+| Java           | Flask, Docker          | Kafka, Snowflake    | Docker       | Tableau, Grafana    |
+| SQL, R         | Keras, Scikit-learn    | Hadoop, Zookeeper   | Kubernetes   | ElasticSearch       |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pp11-web&layout=compact)
 
 ---
 
-## ✍️ Latest Articles on [Medium](https://medium.com/me/stories/public)
+## ✍️ **Check out my latest articles on [Medium](https://medium.com/me/stories/public)**:
 
-📖 **Recent Blogs**:
-- 🔥 [Boosting A/B Testing Accuracy with LLMs](https://medium.com)
-- 🚀 [Building Real-Time Data Streaming Pipelines](https://medium.com)
-- 🌍 [Carbon Emission Trading with Machine Learning](https://medium.com)
-
----
-
-## 📬 Let’s Connect
-
-📧 **Email**: [prayagpurani11@gmail.com](mailto:prayagpurani11@gmail.com)  
-💼 **[LinkedIn](https://linkedin.com/in/prayagpurani)**  
-🌐 **[Portfolio](https://www.datascienceportfol.io/prayagpurani11)**  
+- [**Boosting A/B Testing Accuracy with LLMs**](https://medium.com)  
+- [**Building Real-Time Data Streaming Pipelines**](https://medium.com)  
+- [**Carbon Emission Trading with Machine Learning**](https://medium.com)  
+- [**Detecting and Correcting ML Model Drift**](https://medium.com)  
+- [**AI in Chip Manufacturing: Defect Detection Using YOLOv5**](https://medium.com)
 
 ---
 
+## 📬 **Let’s Connect**
+
+- 📧 Email: [prayagpurani11@gmail.com](mailto:prayagpurani11@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/prayagpurani)
+- 🌐 [Portfolio](https://www.datascienceportfol.io/prayagpurani11)
+
+---
