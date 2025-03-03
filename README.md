@@ -5,74 +5,119 @@
 [![Medium](https://img.shields.io/badge/Medium-Prayag%20Stories-green?logo=medium)](https://medium.com/me/stories/public)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Prayag%20Purani-blueviolet?logo=portfolio)](https://www.datascienceportfol.io/prayagpurani11)
 
+---
 
+## 🌐 About Me
 
-Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Scientist**, **Data Engineer**, and **Tech Blogger**. I love to explore the intersections of **Machine Learning**, **Big Data**, and **Cloud Engineering** while constantly solving real-world problems. 🚀
+Hello! I am **Prayag Nikul Purani**, a passionate **ML Scientist**, **Data Engineer**, and **Tech Blogger** who loves working at the intersection of **Machine Learning**, **Big Data**, and **Cloud Computing**. 🚀
+
+- 🔭 **Currently**: ML Data Scientist at **C/test**
+- 🎓 **Education**: Master of Science in **Data Analytics**, San Jose State University
+- ✍️ **Blogger**: I share my insights & experiences on **Medium** to help others grow in Data Science.
+- 🧠 **Expertise**:
+  - Real-time data processing & event-driven architectures
+  - Fraud detection & anomaly detection systems
+  - Data visualization & storytelling for business impact
 
 ---
 
-## 🌐 **About Me**
-
-- 🔭 Currently working as an **ML Data Scientist** at **C/test**, applying **LLMs** to optimize A/B testing and improving **predictive modeling**.
-- 🎓 Pursuing my **Master of Science in Data Analytics** at **San Jose State University**.
-- ✍️ I also share my data science journey and insights on **Medium** to help others learn and grow with me.
-- 🧠 My expertise revolves around **real-time data processing**, **fraud detection**, and **data storytelling**.
-
----
-
-## 🔬 **Notable Projects**
+## 🔬 Notable Projects
 
 ### 🏦 **Real-Time Smart Bank Data Streaming Capture**
-A **real-time streaming system** using AWS IoT, Kafka, and PySpark for fraud detection. Processed over **1 million transactions** per minute with 99% accuracy.
 
-![Real-Time Streaming Pipeline](./Images/1.webp)
+📌 **Goal**: Engineered a real-time fraud detection system processing **1 million+ transactions per minute** with **99% capture rate**.
 
-### 🌍 **Carbon Emissions Trading Future**
-Predicted and optimized carbon emissions trading inefficiencies using data from **World Bank** and **NWS API**, reducing operational costs by 20%.
-![Real-Time Streaming Pipeline](./Images/2.webp)
+🔧 **Tech Stack**:
+- **Tools**: Kafka, PySpark, AWS TimeStream, Bloom Filters, Grafana
+- **Methods**: Feature Engineering, Hyperparameter Tuning, Real-Time Data Streaming
 
-### 🏡 **Airbnb in Santa Clara County**
-Conducted **sentiment analysis** on 10,000+ Airbnb reviews with Python and **Tableau** to improve customer engagement by 10%.
-![Real-Time Streaming Pipeline](./Images/3.webp)
+🚀 **Impact**:
+- Enhanced fraud detection accuracy with **3 optimized hyperparameters**.
+- **Implemented real-time dashboards** with a **1s refresh rate** using Grafana and Kibana.
 
-### 📊 **Global Trade Dashboard**
-Built an interactive **global trade dashboard** that improved customer decision-making by 25% using advanced visual analytics with **Power BI** and **Tableau**.
-![Real-Time Streaming Pipeline](./Images/4.webp)
+<img src="./Images/1.webp" width="50%">
 
-### **Explore more of my projects on [GitHub](https://github.com/pp11-web)!**
 ---
 
-## 💻 **Tech Stack**
+### 🌍 **Carbon Emissions Trading Future**
+
+📌 **Goal**: Developed a predictive model to optimize **carbon emissions trading inefficiencies**, leveraging **CNN-ANN, SVR, and LSTM models**.
+
+🔧 **Tech Stack**:
+- **Data Sources**: World Bank, NOAA Climate Data, NWS API
+- **Tools**: Python, AWS Lambda, Airflow, CRISP-DM methodology
+- **Methods**: Predictive Modeling, Time-Series Forecasting, MSE, MAE, R² analysis
+
+🚀 **Impact**:
+- Reduced **carbon trading inefficiencies by 20%**.
+- Integrated multiple datasets for improved decision-making in climate finance.
+
+<img src="./Images/2.webp" width="50%">
+
+---
+
+### 🏡 **Airbnb Sentiment Analysis in Santa Clara County**
+
+📌 **Goal**: Analyzed **10,000+ Airbnb reviews** to enhance customer engagement using **NLP and sentiment analysis**.
+
+🔧 **Tech Stack**:
+- **Tools**: Python, NLTK, VADER, Tableau
+- **Methods**: Sentiment Analysis, NLP Preprocessing, Data Visualization
+
+🚀 **Impact**:
+- Improved **customer engagement by 10%** based on insights.
+- Developed an **interactive Tableau dashboard** to monitor sentiment trends.
+
+<img src="./Images/3.webp" width="50%">
+
+---
+
+### 📊 **Global Trade Dashboard**
+
+📌 **Goal**: Designed an **interactive BI dashboard** for **global trade analytics**, improving decision-making in international markets.
+
+🔧 **Tech Stack**:
+- **Tools**: Power BI, Tableau, SQL, Python
+- **Data Sources**: World Trade Organization, UN Comtrade
+- **Methods**: Data Cleaning, KPI Analysis, Predictive Trends, Data Warehousing
+
+🚀 **Impact**:
+- Improved trade **decision-making efficiency by 25%**.
+- Reduced manual reporting time by automating **data ingestion & analysis**.
+
+<img src="./Images/4.webp" width="50%">
+
+---
+
+## 💻 Tech Stack
 
 | Languages      | Frameworks & Tools    | Big Data           | Cloud        | Visualization Tools |
 |----------------|-----------------------|--------------------|--------------|---------------------|
-| Python         | TensorFlow, PyTorch    | Apache Spark        | AWS, GCP     | Power BI            |
-| Java           | Flask, Docker          | Kafka, Snowflake    | Docker       | Tableau, Grafana    |
-| SQL, R         | Keras, Scikit-learn    | Hadoop, Zookeeper   | Kubernetes   | ElasticSearch       |
-
+| Python         | TensorFlow, PyTorch    | Apache Spark       | AWS, GCP     | Power BI            |
+| Java           | Flask, Docker          | Kafka, Snowflake   | Docker       | Tableau, Grafana    |
+| SQL, R         | Keras, Scikit-learn    | Hadoop, Zookeeper  | Kubernetes   | ElasticSearch       |
 
 ---
 
-## 📊 **GitHub Stats**:
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pp11-web&layout=compact)
 
 ---
 
-## ✍️ **Check out my latest articles on [Medium](https://medium.com/me/stories/public)**:
+## ✍️ Latest Articles on [Medium](https://medium.com/me/stories/public)
 
-- [**Boosting A/B Testing Accuracy with LLMs**](https://medium.com)  
-- [**Building Real-Time Data Streaming Pipelines**](https://medium.com)  
-- [**Carbon Emission Trading with Machine Learning**](https://medium.com)
-
----
-
-## 📬 **Let’s Connect**
-
-- 📧 Email: [prayagpurani11@gmail.com](mailto:prayagpurani11@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/prayagpurani)
-- 🌐 [Portfolio](https://www.datascienceportfol.io/prayagpurani11)
+📖 **Recent Blogs**:
+- 🔥 [Boosting A/B Testing Accuracy with LLMs](https://medium.com)
+- 🚀 [Building Real-Time Data Streaming Pipelines](https://medium.com)
+- 🌍 [Carbon Emission Trading with Machine Learning](https://medium.com)
 
 ---
 
+## 📬 Let’s Connect
 
+📧 **Email**: [prayagpurani11@gmail.com](mailto:prayagpurani11@gmail.com)  
+💼 **[LinkedIn](https://linkedin.com/in/prayagpurani)**  
+🌐 **[Portfolio](https://www.datascienceportfol.io/prayagpurani11)**  
+
+---
