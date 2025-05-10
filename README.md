@@ -9,77 +9,73 @@
 
 ## 🌐 **About Me**
 
-Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Scientist**, **Data Engineer**, and **Tech Blogger**. I love to explore the intersections of **Machine Learning**, **Big Data**, and **Cloud Engineering** while constantly solving real-world problems. 🚀
+Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Scientist**, **Data Engineer**, and **Tech Blogger**. I love exploring the intersections of **Machine Learning**, **Big Data**, and **Cloud Engineering** while solving real-world problems. 🚀
 
-- 🔭 Currently working as an **ML Data Scientist** at **C/test**, applying **LLMs** to optimize A/B testing and improving **predictive modeling**.
-- 🎓 Pursuing my **Master of Science in Data Analytics** at **San Jose State University**.
-- ✍️ I also share my data science journey and insights on **Medium** to help others learn and grow with me.
-- 🧠 My expertise revolves around **real-time data processing**, **fraud detection**, and **data storytelling**.
+- 🔭 Currently an **ML Data Scientist at C/test**, leveraging **LLMs** to automate A/B testing and boost user engagement via **GA4 + Meta Ads** analysis.
+- 🎓 Master's candidate in **Data Analytics** at **San Jose State University**, with experience as a **Teaching & Research Assistant** developing generative AI curricula and NLP-based demographic classifiers.
+- 💻 Built AI pipelines for real-time banking fraud detection, emissions forecasting, and semiconductor defect classification.
+- ✍️ I share insights and workflows via blogs on **Medium**, helping others grow in the field.
 
 ---
 
 ## 💼 **Professional Experience**
 
 | **Role** | **Company** | **Duration** | **Key Contributions** |
-|----------|------------|-------------|----------------------|
-| **ML Data Scientist** | C/test | 07/2024 – Present | Automated A/B testing using LLMs, reducing testing time by 30%. Integrated GA4 & Meta Ads for user retention analysis. |
-| **Teaching & Research Assistant** | San Jose State University | 01/2025 – Present | Developed Generative AI courses (GANs, VAEs, Transformers). Researched ethnicity classification models on US Census data. |
-| **Data Research Assistant** | Vellore Institute Of Technology | 01/2023 – 06/2023 | Performed statistical analysis on student performance & optimized ETL pipelines, reducing query time by 20%. |
-| **AI Research Intern** | XYZ AI Labs | 06/2023 – 12/2023 | Developed deep learning-based models for document processing, reducing manual review effort by 40%. Designed an LLM-powered chatbot for automated responses. |
+|----------|------------|-------------|------------------------|
+| **ML Data Scientist** | C/test | Jul 2024 – Dec 2024 | Automated LLM-powered A/B testing, integrated GA4 + Meta Ads, reduced testing time by 30%. |
+| **Teaching & Research Assistant** | San Jose State University | Jan 2025 – May 2025 | Developed GAN/VAE/LLM curriculum, deployed Flask-based ethnicity classifier using LSTM & US Census data. |
+| **Data Researcher** | Vellore Institute of Technology | Dec 2022 – May 2023 | Built PySpark ETL pipelines, applied hypothesis testing and clustering to student data. |
 
 ---
 
 ## 🔬 **Notable Projects**
 
+### 🧠 [Chip Defect Detection and Classification](https://github.com/pp11-web/Detecting-and-Classifying-Defects-In-Chips-With-Computer-Vision)
+- **Objective**: Created an AI-driven system to detect defects in semiconductor chips, supporting efficient GPU production for LLM workloads.
+- **Tech Stack**: **YOLOv8, CNN, Vision Transformer, Flask, AWS S3/EC2, JIRA**
+- **Impact**: Achieved 96.4% precision across 10K images; built full-stack app for automated detection and KPI visualization via Tableau.
+<img src="./Images/6.jpg" width="600" height="250">
+
+---
+
 ### 🏦 **Real-Time Smart Bank Data Streaming Capture**
-- **Objective**: Built a **real-time fraud detection system** that processes over **1 million transactions per minute** with a **99% accuracy rate**.
-- **Tech Stack**: **Kafka, PySpark, AWS TimeStream, Bloom Filters, Grafana**.
-- **Impact**: Enhanced fraud detection accuracy by **optimizing hyperparameters** and integrating **real-time monitoring dashboards**.
+- **Objective**: Built a fraud detection system processing over 1M transactions/min with 99% accuracy.
+- **Tech Stack**: **Kafka, PySpark, AWS IoT, Bloom Filters, Grafana**
+- **Impact**: Optimized detection using hyperparameter tuning and real-time location-based monitoring.
 <img src="./Images/1.webp" width="600" height="250">
 
 ---
 
 ### 🌍 **Carbon Emissions Trading Future**
-- **Objective**: Developed a **predictive model** to optimize **carbon emissions trading inefficiencies**, reducing costs by **20%**.
-- **Tech Stack**: **World Bank API, NOAA Climate Data, AWS Lambda, Airflow, LSTM Models**.
-- **Impact**: Integrated multi-source climate data for enhanced **decision-making in carbon finance**.
+- **Objective**: Modeled carbon trading inefficiencies using LSTM and ARIMA.
+- **Tech Stack**: **World Bank API, NOAA, LangChain, Azure, Hugging Face**
+- **Impact**: Improved cost-efficiency in carbon finance by 20% using predictive analytics.
 <img src="./Images/3.webp" width="600" height="250">
 
 ---
 
 ### 🏡 **Airbnb in Santa Clara County**
-- **Objective**: Conducted **sentiment analysis** on **10,000+ Airbnb reviews** to improve customer engagement.
-- **Tech Stack**: **Python, NLTK, VADER, Tableau**.
-- **Impact**: Improved customer engagement by **10%** using sentiment-driven business insights.
+- **Objective**: Performed sentiment analysis on 10K+ reviews to inform business strategy.
+- **Tech Stack**: **Python, NLTK, VADER, Tableau**
+- **Impact**: Boosted customer engagement by 10%.
 <img src="./Images/2.webp" width="600" height="250">
 
 ---
 
 ### 📊 **Global Trade Dashboard**
-- **Objective**: Created an **interactive BI dashboard** to optimize global trade decision-making.
-- **Tech Stack**: **Power BI, Tableau, SQL, Python**.
-- **Impact**: Increased efficiency in trade decision-making by **25%** while automating reporting workflows.
+- **Objective**: Developed BI dashboard to enhance global trade decisions.
+- **Tech Stack**: **Power BI, Tableau, SQL, Python**
+- **Impact**: Increased decision efficiency by 25% through automation.
 <img src="./Images/4.webp" width="600" height="250">
-
----
-
-### 🛠️ **Chip Defect Detection and Classification**
-- **Objective**: Designed an **AI-powered defect detection system** for semiconductor chips, ensuring high efficiency in GPU training for LLMs.
-- **Tech Stack**: **YOLOv5, TensorFlow, OpenCV**.
-- **Impact**: Improved **defect detection accuracy**, optimizing chip manufacturing for high-performance computing.
-<img src="./Images/6.jpg" width="600" height="250">
-
-### **Explore more of my projects on [GitHub](https://github.com/pp11-web)!**
 
 ---
 
 ## 💻 **Tech Stack**
 
-| Languages      | Frameworks & Tools    | Big Data           | Cloud        | Visualization Tools |
-|----------------|-----------------------|--------------------|--------------|---------------------|
-| Python         | TensorFlow, PyTorch    | Apache Spark        | AWS, GCP     | Power BI            |
-| Java           | Flask, Docker          | Kafka, Snowflake    | Docker       | Tableau, Grafana    |
-| SQL, R         | Keras, Scikit-learn    | Hadoop, Zookeeper   | Kubernetes   | ElasticSearch       |
+| Languages      | Frameworks & Tools     | Big Data              | Cloud         | Visualization     |
+|----------------|------------------------|------------------------|----------------|--------------------|
+| Python, Java   | TensorFlow, PyTorch, Flask | Kafka, Spark, Hadoop     | AWS, GCP, Azure | Power BI, Tableau, Grafana |
+| SQL, R         | Scikit-learn, Keras    | Snowflake, Zookeeper   | Docker, Kubernetes | Kibana, ElasticSearch |
 
 ---
 
@@ -91,11 +87,11 @@ Welcome to my GitHub profile! I am **Prayag Nikul Purani**, a passionate **ML Sc
 
 ## ✍️ **Check out my latest articles on [Medium](https://medium.com/me/stories/public)**:
 
-- [**Workflow for MongoDB**](https://medium.com/p/985cc742a113)  
-- [**First Experience with Snowflakes**](https://medium.com/p/397d065579d3)  
-- [**Experiences with PandasAi and Code Llama**](https://medium.com/p/8322c8b0a374)  
-- [**A Big Data Mining Approach of PSO-Based BP Neural Network for Financial Risk Management With IoT**](https://medium.com/p/f055c54770d8)  
-- [**Spatial big data architecture: From Data Warehouses and Data Lakes to the Lake House**](https://medium.com/p/6925ba600908)
+- [Workflow for MongoDB](https://medium.com/p/985cc742a113)  
+- [First Experience with Snowflakes](https://medium.com/p/397d065579d3)  
+- [Experiences with PandasAi and Code Llama](https://medium.com/p/8322c8b0a374)  
+- [PSO-Based BP Neural Network for Financial Risk Management](https://medium.com/p/f055c54770d8)  
+- [From Data Warehouses to the Lake House](https://medium.com/p/6925ba600908)
 
 ---
 
