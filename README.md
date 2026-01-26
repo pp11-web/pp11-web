@@ -28,7 +28,7 @@ I’m **Prayag Nikul Purani**, a **Machine Learning & Data Engineer** focused on
 
 ---
 
-### **ML Data Scientist — C/test** (Jul 2024 – Dec 2024)
+### **Teaching & Research Assistant — San Jose State University** (Jan 2025 – May 2025)
 - Built **LLM-powered AI agents** for automated **A/B testing pipelines**
 - Integrated **GA4 + Meta Ads** data for hypothesis generation & evaluation
 - Fine-tuned **LLaMA-30B using RLHF + LoRA**, integrated **RAG (Naive + Re-ranking)**
@@ -36,11 +36,11 @@ I’m **Prayag Nikul Purani**, a **Machine Learning & Data Engineer** focused on
 
 ---
 
-### **Teaching & Research Assistant — San Jose State University** (Jan 2025 – May 2025)
-- Developed curriculum covering **GANs, VAEs, Vision Transformers & LLMs**
-- Built a **multi-stage demographic classifier** using **LSTM + character embeddings**
-- Processed **1M+ US Census & USPTO records**
-- 🎯 Achieved **99% precision**, deployed **real-time Flask web app**
+### **Data Engineer — Shree Hari Info Solution** (May 2022 – Jun 2023)
+- Built a **performance evaluation system** using **Naïve Bayes classification** to analyze employee performance data and enable data-driven training prioritization, reducing identification time by ~30%.
+- Implemented robust **data preprocessing and feature engineering pipelines** using **Python and SQL**, transforming raw data stored in **AWS S3** and loading curated datasets into **Amazon Redshift** for scalable analytics.
+- Designed **reusable backend data processing modules** to support end-to-end **ETL workflows**, improving maintainability and data consistency across pipelines.
+- Assisted in developing **Amazon QuickSight dashboards** to visualize model predictions, performance metrics, and analytical insights for stakeholders.
 
 ---
 
