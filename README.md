@@ -34,9 +34,10 @@ I’m **Prayag Nikul Purani**, a **Machine Learning & Data Engineer** focused on
 - Fine-tuned **LLaMA-30B using RLHF + LoRA**, integrated **RAG (Naive + Re-ranking)**
 - 📉 Reduced experimentation time by **70%**, improved conversion by **10–15%**
 
+<!-- 
 ---
 
-<!-- 
+
 ### **Data Engineer — Shree Hari Info Solution** (May 2022 – Jun 2023)
 - Built a **performance evaluation system** using **Naïve Bayes classification** to analyze employee performance data and enable data-driven training prioritization, reducing identification time by ~30%.
 - Implemented robust **data preprocessing and feature engineering pipelines** using **Python and SQL**, transforming raw data stored in **AWS S3** and loading curated datasets into **Amazon Redshift** for scalable analytics.
